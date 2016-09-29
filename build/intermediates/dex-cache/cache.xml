@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_9759f0456a1f009afec4810b489fe931129c9637\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_e09f15d94e3294e8f59ba0bba08fc133623f3fc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_0f16a5a272e2bb5b905a282f78618ebe97fb07fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nick\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_b7b3e439ef5ff981a7940147e2afe23262862e9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_acef047815444ecac03bc4a29f9559dcc22cddfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="71fecca9ee6a9a5680ad062b1ff98f21f0bc2023">
+        <dex dex="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0f8c7c15f2338edfca055b3c9cacd71101bb9a57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nick\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.7.5\7a15a7db50f86c4b64aa3367424a60e3a325b8f1\okhttp-2.7.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.7.5_08a8984edcf063a97915021f5446ff55bc5f8e63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_2edc422bf8322ffd1d5e594a83e608a4ff38f88f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nick\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.1\f7be08ec23c21485b9b5a1cf1654c2ec8c58168d\jsr305-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f7be08ec23c21485b9b5a1cf1654c2ec8c58168d">
+        <dex dex="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-3.0.1_f95465bbd2004e373e4bfd84c7f3453304b80499\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_59a9ba2d0d8ba7a30062aa911bc8fa7006f52037\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nick\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-1.9.0_e0192e7d4325d804742777c7242ac1cafd6d2330\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ce8852f27ba6053d91cdbec92ad3a177a7557378">
+        <dex dex="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8a858b2f88ca178d636b8942d862e674e3403107\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_dd1f5a05e0c27931e97dc9e366aab99918f677d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nick\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_c2e5e1a9318928c5363f803814b4ea39527f137e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_33f93639678f9ce791bba854f65d08bcff1af17c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_723bf765b75d23d1dfa6aa85c50e66e34b47b4e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_850b5768aff3a589e0200e4aced0101d827274a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nick\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_b64da662a219daf44c680892fffa24b58515330e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_15dcb263bdec60cd04515907b2b0d9b673f47eac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_4ecc3f053b9e1175d2c9ba0ff09c8f20b4cf7ded\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_70e4e08f57f6610263bd89d88a6ab65a8de8100b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_5b08a9c73335263f2f113caa49de1464d6f6f94c\classes.dex" />
+    </item>
+
+</items>

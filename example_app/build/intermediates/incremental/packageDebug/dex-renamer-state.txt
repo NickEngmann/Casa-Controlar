@@ -1,0 +1,7 @@
+#Wed Sep 28 23:22:54 EDT 2016
+base.0=C\:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0f8c7c15f2338edfca055b3c9cacd71101bb9a57
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8a858b2f88ca178d636b8942d862e674e3403107\\classes.dex
+base.1=C\:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8a858b2f88ca178d636b8942d862e674e3403107
+file.0=C\:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0f8c7c15f2338edfca055b3c9cacd71101bb9a57\\classes.dex

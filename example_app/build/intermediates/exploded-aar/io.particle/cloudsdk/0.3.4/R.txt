@@ -1,0 +1,4 @@
+int string api_base_uri 0x7f020000
+int string http_log_level 0x7f020001
+int string oauth_client_id 0x7f020002
+int string oauth_client_secret 0x7f020003

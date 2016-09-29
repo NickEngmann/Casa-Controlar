@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="21"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="131712933711912"
+    token="-3481674414831169597"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="2258" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="15347" />
+    <task
+        name="verifier"
+        duration="6670" />
+
+    <artifact
+        location="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\outputs\apk\example_app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="131712933711912"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\outputs\apk\example_app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
