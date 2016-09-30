@@ -4,22 +4,22 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="131712933711912"
+    timestamp="33411363116684"
     token="-3481674414831169597"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="2258" />
+        duration="5914" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="15347" />
+        duration="0" />
     <task
         name="verifier"
-        duration="6670" />
+        duration="7" />
 
     <artifact
         location="C:\Users\Nick\Desktop\Projects\spark-sdk-android-master\example_app\build\outputs\apk\example_app-debug.apk"

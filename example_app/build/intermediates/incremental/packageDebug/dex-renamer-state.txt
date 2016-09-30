@@ -1,4 +1,4 @@
-#Wed Sep 28 23:22:54 EDT 2016
+#Thu Sep 29 19:58:48 EDT 2016
 base.0=C\:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0f8c7c15f2338edfca055b3c9cacd71101bb9a57
 renamed.1=classes2.dex
 renamed.0=classes.dex
