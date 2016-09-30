@@ -9,6 +9,15 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:background="#FFFAF2">
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/casasplash"
+        android:id="@+id/imageView3"
+        android:layout_alignBottom="@+id/textview3"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -17,29 +26,32 @@
         android:textStyle="bold"
         android:textAlignment="center"
         android:textColor="#AFB299"
+        android:id="@+id/textview3"
+        android:layout_marginBottom="83dp"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="44dp"
-        android:id="@+id/textview3" />
-
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:srcCompat="@drawable/casasplash"
-        android:id="@+id/imageView3"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_centerHorizontal="true" />
 
     <Button
         android:text="      "
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="63dp"
         android:background="@android:color/transparent"
         android:id="@+id/button"
         android:layout_above="@+id/textview3"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="93dp" />
+
+    <TextView
+        android:text="CASA CONTROLAR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView4"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        android:textColor="#FFA024"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="17dp" />
     />
 
 </RelativeLayout>

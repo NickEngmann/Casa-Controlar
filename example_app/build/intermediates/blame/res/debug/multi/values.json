@@ -2529,7 +2529,7 @@
                     "startOffset": 34007,
                     "endLine": 345,
                     "endColumn": 12,
-                    "endOffset": 34132
+                    "endOffset": 34130
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\src\\main\\res\\values\\styles.xml",
@@ -2539,7 +2539,7 @@
                         "startOffset": 57,
                         "endLine": 5,
                         "endColumn": 12,
-                        "endOffset": 184
+                        "endOffset": 182
                     }
                 }
             },
@@ -2547,10 +2547,10 @@
                 "to": {
                     "startLine": 346,
                     "startColumn": 4,
-                    "startOffset": 34137,
+                    "startOffset": 34135,
                     "endLine": 352,
                     "endColumn": 12,
-                    "endOffset": 34633
+                    "endOffset": 34631
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2560,9 +2560,9 @@
                 "to": {
                     "startLine": 353,
                     "startColumn": 4,
-                    "startOffset": 34638,
+                    "startOffset": 34636,
                     "endColumn": 88,
-                    "endOffset": 34722
+                    "endOffset": 34720
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2572,10 +2572,10 @@
                 "to": {
                     "startLine": 354,
                     "startColumn": 4,
-                    "startOffset": 34727,
+                    "startOffset": 34725,
                     "endLine": 357,
                     "endColumn": 12,
-                    "endOffset": 34969
+                    "endOffset": 34967
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2585,10 +2585,10 @@
                 "to": {
                     "startLine": 358,
                     "startColumn": 4,
-                    "startOffset": 34974,
+                    "startOffset": 34972,
                     "endLine": 361,
                     "endColumn": 12,
-                    "endOffset": 35250
+                    "endOffset": 35248
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2598,10 +2598,10 @@
                 "to": {
                     "startLine": 362,
                     "startColumn": 4,
-                    "startOffset": 35255,
+                    "startOffset": 35253,
                     "endLine": 366,
                     "endColumn": 12,
-                    "endOffset": 35535
+                    "endOffset": 35533
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2611,10 +2611,10 @@
                 "to": {
                     "startLine": 367,
                     "startColumn": 4,
-                    "startOffset": 35540,
+                    "startOffset": 35538,
                     "endLine": 372,
                     "endColumn": 12,
-                    "endOffset": 35928
+                    "endOffset": 35926
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2624,10 +2624,10 @@
                 "to": {
                     "startLine": 373,
                     "startColumn": 4,
-                    "startOffset": 35933,
+                    "startOffset": 35931,
                     "endLine": 379,
                     "endColumn": 12,
-                    "endOffset": 36405
+                    "endOffset": 36403
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2637,10 +2637,10 @@
                 "to": {
                     "startLine": 380,
                     "startColumn": 4,
-                    "startOffset": 36410,
+                    "startOffset": 36408,
                     "endLine": 383,
                     "endColumn": 12,
-                    "endOffset": 36627
+                    "endOffset": 36625
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2650,10 +2650,10 @@
                 "to": {
                     "startLine": 384,
                     "startColumn": 4,
-                    "startOffset": 36632,
+                    "startOffset": 36630,
                     "endLine": 387,
                     "endColumn": 12,
-                    "endOffset": 36849
+                    "endOffset": 36847
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2663,10 +2663,10 @@
                 "to": {
                     "startLine": 388,
                     "startColumn": 4,
-                    "startOffset": 36854,
+                    "startOffset": 36852,
                     "endLine": 392,
                     "endColumn": 12,
-                    "endOffset": 37117
+                    "endOffset": 37115
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2676,10 +2676,10 @@
                 "to": {
                     "startLine": 393,
                     "startColumn": 4,
-                    "startOffset": 37122,
+                    "startOffset": 37120,
                     "endLine": 396,
                     "endColumn": 12,
-                    "endOffset": 37344
+                    "endOffset": 37342
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2689,10 +2689,10 @@
                 "to": {
                     "startLine": 397,
                     "startColumn": 4,
-                    "startOffset": 37349,
+                    "startOffset": 37347,
                     "endLine": 400,
                     "endColumn": 12,
-                    "endOffset": 37574
+                    "endOffset": 37572
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2702,10 +2702,10 @@
                 "to": {
                     "startLine": 401,
                     "startColumn": 4,
-                    "startOffset": 37579,
+                    "startOffset": 37577,
                     "endLine": 404,
                     "endColumn": 12,
-                    "endOffset": 37804
+                    "endOffset": 37802
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2715,10 +2715,10 @@
                 "to": {
                     "startLine": 405,
                     "startColumn": 4,
-                    "startOffset": 37809,
+                    "startOffset": 37807,
                     "endLine": 408,
                     "endColumn": 12,
-                    "endOffset": 38034
+                    "endOffset": 38032
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2728,10 +2728,10 @@
                 "to": {
                     "startLine": 409,
                     "startColumn": 4,
-                    "startOffset": 38039,
+                    "startOffset": 38037,
                     "endLine": 412,
                     "endColumn": 12,
-                    "endOffset": 38264
+                    "endOffset": 38262
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2741,10 +2741,10 @@
                 "to": {
                     "startLine": 413,
                     "startColumn": 4,
-                    "startOffset": 38269,
+                    "startOffset": 38267,
                     "endLine": 416,
                     "endColumn": 12,
-                    "endOffset": 38491
+                    "endOffset": 38489
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2754,10 +2754,10 @@
                 "to": {
                     "startLine": 417,
                     "startColumn": 4,
-                    "startOffset": 38496,
+                    "startOffset": 38494,
                     "endLine": 420,
                     "endColumn": 12,
-                    "endOffset": 38730
+                    "endOffset": 38728
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2767,10 +2767,10 @@
                 "to": {
                     "startLine": 421,
                     "startColumn": 4,
-                    "startOffset": 38735,
+                    "startOffset": 38733,
                     "endLine": 424,
                     "endColumn": 12,
-                    "endOffset": 38956
+                    "endOffset": 38954
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2780,10 +2780,10 @@
                 "to": {
                     "startLine": 425,
                     "startColumn": 4,
-                    "startOffset": 38961,
+                    "startOffset": 38959,
                     "endLine": 428,
                     "endColumn": 12,
-                    "endOffset": 39201
+                    "endOffset": 39199
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2793,10 +2793,10 @@
                 "to": {
                     "startLine": 429,
                     "startColumn": 4,
-                    "startOffset": 39206,
+                    "startOffset": 39204,
                     "endLine": 432,
                     "endColumn": 12,
-                    "endOffset": 39431
+                    "endOffset": 39429
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2806,10 +2806,10 @@
                 "to": {
                     "startLine": 433,
                     "startColumn": 4,
-                    "startOffset": 39436,
+                    "startOffset": 39434,
                     "endLine": 436,
                     "endColumn": 12,
-                    "endOffset": 39679
+                    "endOffset": 39677
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2819,10 +2819,10 @@
                 "to": {
                     "startLine": 437,
                     "startColumn": 4,
-                    "startOffset": 39684,
+                    "startOffset": 39682,
                     "endLine": 440,
                     "endColumn": 12,
-                    "endOffset": 39898
+                    "endOffset": 39896
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2832,10 +2832,10 @@
                 "to": {
                     "startLine": 441,
                     "startColumn": 4,
-                    "startOffset": 39903,
+                    "startOffset": 39901,
                     "endLine": 445,
                     "endColumn": 12,
-                    "endOffset": 40181
+                    "endOffset": 40179
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2845,10 +2845,10 @@
                 "to": {
                     "startLine": 446,
                     "startColumn": 4,
-                    "startOffset": 40186,
+                    "startOffset": 40184,
                     "endLine": 449,
                     "endColumn": 12,
-                    "endOffset": 40389
+                    "endOffset": 40387
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2858,10 +2858,10 @@
                 "to": {
                     "startLine": 450,
                     "startColumn": 4,
-                    "startOffset": 40394,
+                    "startOffset": 40392,
                     "endLine": 452,
                     "endColumn": 12,
-                    "endOffset": 40520
+                    "endOffset": 40518
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2871,10 +2871,10 @@
                 "to": {
                     "startLine": 453,
                     "startColumn": 4,
-                    "startOffset": 40525,
+                    "startOffset": 40523,
                     "endLine": 456,
                     "endColumn": 12,
-                    "endOffset": 40747
+                    "endOffset": 40745
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2884,10 +2884,10 @@
                 "to": {
                     "startLine": 457,
                     "startColumn": 4,
-                    "startOffset": 40752,
+                    "startOffset": 40750,
                     "endLine": 460,
                     "endColumn": 12,
-                    "endOffset": 40993
+                    "endOffset": 40991
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2897,10 +2897,10 @@
                 "to": {
                     "startLine": 461,
                     "startColumn": 4,
-                    "startOffset": 40998,
+                    "startOffset": 40996,
                     "endLine": 464,
                     "endColumn": 12,
-                    "endOffset": 41218
+                    "endOffset": 41216
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2910,10 +2910,10 @@
                 "to": {
                     "startLine": 465,
                     "startColumn": 4,
-                    "startOffset": 41223,
+                    "startOffset": 41221,
                     "endLine": 468,
                     "endColumn": 12,
-                    "endOffset": 41465
+                    "endOffset": 41463
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2923,10 +2923,10 @@
                 "to": {
                     "startLine": 469,
                     "startColumn": 4,
-                    "startOffset": 41470,
+                    "startOffset": 41468,
                     "endLine": 472,
                     "endColumn": 12,
-                    "endOffset": 41686
+                    "endOffset": 41684
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2936,10 +2936,10 @@
                 "to": {
                     "startLine": 473,
                     "startColumn": 4,
-                    "startOffset": 41691,
+                    "startOffset": 41689,
                     "endLine": 476,
                     "endColumn": 12,
-                    "endOffset": 41931
+                    "endOffset": 41929
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2949,10 +2949,10 @@
                 "to": {
                     "startLine": 477,
                     "startColumn": 4,
-                    "startOffset": 41936,
+                    "startOffset": 41934,
                     "endLine": 480,
                     "endColumn": 12,
-                    "endOffset": 42207
+                    "endOffset": 42205
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2962,10 +2962,10 @@
                 "to": {
                     "startLine": 481,
                     "startColumn": 4,
-                    "startOffset": 42212,
+                    "startOffset": 42210,
                     "endLine": 484,
                     "endColumn": 12,
-                    "endOffset": 42508
+                    "endOffset": 42506
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2975,10 +2975,10 @@
                 "to": {
                     "startLine": 485,
                     "startColumn": 4,
-                    "startOffset": 42513,
+                    "startOffset": 42511,
                     "endLine": 488,
                     "endColumn": 12,
-                    "endOffset": 42832
+                    "endOffset": 42830
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -2988,10 +2988,10 @@
                 "to": {
                     "startLine": 489,
                     "startColumn": 4,
-                    "startOffset": 42837,
+                    "startOffset": 42835,
                     "endLine": 492,
                     "endColumn": 12,
-                    "endOffset": 43123
+                    "endOffset": 43121
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3001,10 +3001,10 @@
                 "to": {
                     "startLine": 493,
                     "startColumn": 4,
-                    "startOffset": 43128,
+                    "startOffset": 43126,
                     "endLine": 496,
                     "endColumn": 12,
-                    "endOffset": 43437
+                    "endOffset": 43435
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3014,9 +3014,9 @@
                 "to": {
                     "startLine": 497,
                     "startColumn": 4,
-                    "startOffset": 43442,
+                    "startOffset": 43440,
                     "endColumn": 136,
-                    "endOffset": 43574
+                    "endOffset": 43572
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3026,9 +3026,9 @@
                 "to": {
                     "startLine": 498,
                     "startColumn": 4,
-                    "startOffset": 43579,
+                    "startOffset": 43577,
                     "endColumn": 130,
-                    "endOffset": 43705
+                    "endOffset": 43703
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3038,9 +3038,9 @@
                 "to": {
                     "startLine": 499,
                     "startColumn": 4,
-                    "startOffset": 43710,
+                    "startOffset": 43708,
                     "endColumn": 104,
-                    "endOffset": 43810
+                    "endOffset": 43808
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3050,10 +3050,10 @@
                 "to": {
                     "startLine": 500,
                     "startColumn": 4,
-                    "startOffset": 43815,
+                    "startOffset": 43813,
                     "endLine": 502,
                     "endColumn": 12,
-                    "endOffset": 44014
+                    "endOffset": 44012
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3063,10 +3063,10 @@
                 "to": {
                     "startLine": 503,
                     "startColumn": 4,
-                    "startOffset": 44019,
+                    "startOffset": 44017,
                     "endLine": 505,
                     "endColumn": 12,
-                    "endOffset": 44222
+                    "endOffset": 44220
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3076,10 +3076,10 @@
                 "to": {
                     "startLine": 506,
                     "startColumn": 4,
-                    "startOffset": 44227,
+                    "startOffset": 44225,
                     "endLine": 509,
                     "endColumn": 12,
-                    "endOffset": 44493
+                    "endOffset": 44491
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3089,9 +3089,9 @@
                 "to": {
                     "startLine": 510,
                     "startColumn": 4,
-                    "startOffset": 44498,
+                    "startOffset": 44496,
                     "endColumn": 111,
-                    "endOffset": 44605
+                    "endOffset": 44603
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3101,9 +3101,9 @@
                 "to": {
                     "startLine": 511,
                     "startColumn": 4,
-                    "startOffset": 44610,
+                    "startOffset": 44608,
                     "endColumn": 111,
-                    "endOffset": 44717
+                    "endOffset": 44715
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3113,9 +3113,9 @@
                 "to": {
                     "startLine": 512,
                     "startColumn": 4,
-                    "startOffset": 44722,
+                    "startOffset": 44720,
                     "endColumn": 104,
-                    "endOffset": 44822
+                    "endOffset": 44820
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3125,9 +3125,9 @@
                 "to": {
                     "startLine": 513,
                     "startColumn": 4,
-                    "startOffset": 44827,
+                    "startOffset": 44825,
                     "endColumn": 116,
-                    "endOffset": 44939
+                    "endOffset": 44937
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3137,10 +3137,10 @@
                 "to": {
                     "startLine": 514,
                     "startColumn": 4,
-                    "startOffset": 44944,
+                    "startOffset": 44942,
                     "endLine": 516,
                     "endColumn": 12,
-                    "endOffset": 45153
+                    "endOffset": 45151
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3150,10 +3150,10 @@
                 "to": {
                     "startLine": 517,
                     "startColumn": 4,
-                    "startOffset": 45158,
+                    "startOffset": 45156,
                     "endLine": 518,
                     "endColumn": 12,
-                    "endOffset": 45299
+                    "endOffset": 45297
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3163,10 +3163,10 @@
                 "to": {
                     "startLine": 519,
                     "startColumn": 4,
-                    "startOffset": 45304,
+                    "startOffset": 45302,
                     "endLine": 520,
                     "endColumn": 12,
-                    "endOffset": 45439
+                    "endOffset": 45437
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3176,10 +3176,10 @@
                 "to": {
                     "startLine": 521,
                     "startColumn": 4,
-                    "startOffset": 45444,
+                    "startOffset": 45442,
                     "endLine": 522,
                     "endColumn": 12,
-                    "endOffset": 45525
+                    "endOffset": 45523
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3189,10 +3189,10 @@
                 "to": {
                     "startLine": 523,
                     "startColumn": 4,
-                    "startOffset": 45530,
+                    "startOffset": 45528,
                     "endLine": 527,
                     "endColumn": 12,
-                    "endOffset": 45873
+                    "endOffset": 45871
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3202,9 +3202,9 @@
                 "to": {
                     "startLine": 528,
                     "startColumn": 4,
-                    "startOffset": 45878,
+                    "startOffset": 45876,
                     "endColumn": 87,
-                    "endOffset": 45961
+                    "endOffset": 45959
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3214,10 +3214,10 @@
                 "to": {
                     "startLine": 529,
                     "startColumn": 4,
-                    "startOffset": 45966,
+                    "startOffset": 45964,
                     "endLine": 532,
                     "endColumn": 12,
-                    "endOffset": 46191
+                    "endOffset": 46189
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3227,10 +3227,10 @@
                 "to": {
                     "startLine": 533,
                     "startColumn": 4,
-                    "startOffset": 46196,
+                    "startOffset": 46194,
                     "endLine": 538,
                     "endColumn": 12,
-                    "endOffset": 46609
+                    "endOffset": 46607
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3240,10 +3240,10 @@
                 "to": {
                     "startLine": 539,
                     "startColumn": 4,
-                    "startOffset": 46614,
+                    "startOffset": 46612,
                     "endLine": 542,
                     "endColumn": 12,
-                    "endOffset": 46842
+                    "endOffset": 46840
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3253,9 +3253,9 @@
                 "to": {
                     "startLine": 543,
                     "startColumn": 4,
-                    "startOffset": 46847,
+                    "startOffset": 46845,
                     "endColumn": 81,
-                    "endOffset": 46924
+                    "endOffset": 46922
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3265,10 +3265,10 @@
                 "to": {
                     "startLine": 544,
                     "startColumn": 4,
-                    "startOffset": 46929,
+                    "startOffset": 46927,
                     "endLine": 545,
                     "endColumn": 12,
-                    "endOffset": 47022
+                    "endOffset": 47020
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3278,10 +3278,10 @@
                 "to": {
                     "startLine": 546,
                     "startColumn": 4,
-                    "startOffset": 47027,
+                    "startOffset": 47025,
                     "endLine": 556,
                     "endColumn": 12,
-                    "endOffset": 47614
+                    "endOffset": 47612
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3291,9 +3291,9 @@
                 "to": {
                     "startLine": 557,
                     "startColumn": 4,
-                    "startOffset": 47619,
+                    "startOffset": 47617,
                     "endColumn": 99,
-                    "endOffset": 47714
+                    "endOffset": 47712
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3303,10 +3303,10 @@
                 "to": {
                     "startLine": 558,
                     "startColumn": 4,
-                    "startOffset": 47719,
+                    "startOffset": 47717,
                     "endLine": 561,
                     "endColumn": 12,
-                    "endOffset": 47950
+                    "endOffset": 47948
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3316,10 +3316,10 @@
                 "to": {
                     "startLine": 562,
                     "startColumn": 4,
-                    "startOffset": 47955,
+                    "startOffset": 47953,
                     "endLine": 567,
                     "endColumn": 12,
-                    "endOffset": 48374
+                    "endOffset": 48372
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3329,10 +3329,10 @@
                 "to": {
                     "startLine": 568,
                     "startColumn": 4,
-                    "startOffset": 48379,
+                    "startOffset": 48377,
                     "endLine": 571,
                     "endColumn": 12,
-                    "endOffset": 48613
+                    "endOffset": 48611
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3342,9 +3342,9 @@
                 "to": {
                     "startLine": 572,
                     "startColumn": 4,
-                    "startOffset": 48618,
+                    "startOffset": 48616,
                     "endColumn": 93,
-                    "endOffset": 48707
+                    "endOffset": 48705
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3354,9 +3354,9 @@
                 "to": {
                     "startLine": 573,
                     "startColumn": 4,
-                    "startOffset": 48712,
+                    "startOffset": 48710,
                     "endColumn": 88,
-                    "endOffset": 48796
+                    "endOffset": 48794
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3366,10 +3366,10 @@
                 "to": {
                     "startLine": 574,
                     "startColumn": 4,
-                    "startOffset": 48801,
+                    "startOffset": 48799,
                     "endLine": 577,
                     "endColumn": 12,
-                    "endOffset": 49033
+                    "endOffset": 49031
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3379,10 +3379,10 @@
                 "to": {
                     "startLine": 578,
                     "startColumn": 4,
-                    "startOffset": 49038,
+                    "startOffset": 49036,
                     "endLine": 603,
                     "endColumn": 12,
-                    "endOffset": 50956
+                    "endOffset": 50954
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3392,10 +3392,10 @@
                 "to": {
                     "startLine": 604,
                     "startColumn": 4,
-                    "startOffset": 50961,
+                    "startOffset": 50959,
                     "endLine": 607,
                     "endColumn": 12,
-                    "endOffset": 51198
+                    "endOffset": 51196
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3405,9 +3405,9 @@
                 "to": {
                     "startLine": 608,
                     "startColumn": 4,
-                    "startOffset": 51203,
+                    "startOffset": 51201,
                     "endColumn": 101,
-                    "endOffset": 51300
+                    "endOffset": 51298
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3417,10 +3417,10 @@
                 "to": {
                     "startLine": 609,
                     "startColumn": 4,
-                    "startOffset": 51305,
+                    "startOffset": 51303,
                     "endLine": 612,
                     "endColumn": 12,
-                    "endOffset": 51537
+                    "endOffset": 51535
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3430,10 +3430,10 @@
                 "to": {
                     "startLine": 613,
                     "startColumn": 4,
-                    "startOffset": 51542,
+                    "startOffset": 51540,
                     "endLine": 639,
                     "endColumn": 12,
-                    "endOffset": 53591
+                    "endOffset": 53589
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3443,10 +3443,10 @@
                 "to": {
                     "startLine": 640,
                     "startColumn": 4,
-                    "startOffset": 53596,
+                    "startOffset": 53594,
                     "endLine": 797,
                     "endColumn": 12,
-                    "endOffset": 63187
+                    "endOffset": 63185
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3456,10 +3456,10 @@
                 "to": {
                     "startLine": 798,
                     "startColumn": 4,
-                    "startOffset": 63192,
+                    "startOffset": 63190,
                     "endLine": 819,
                     "endColumn": 12,
-                    "endOffset": 64438
+                    "endOffset": 64436
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3469,10 +3469,10 @@
                 "to": {
                     "startLine": 820,
                     "startColumn": 4,
-                    "startOffset": 64443,
+                    "startOffset": 64441,
                     "endLine": 977,
                     "endColumn": 12,
-                    "endOffset": 74133
+                    "endOffset": 74131
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3482,10 +3482,10 @@
                 "to": {
                     "startLine": 978,
                     "startColumn": 4,
-                    "startOffset": 74138,
+                    "startOffset": 74136,
                     "endLine": 999,
                     "endColumn": 12,
-                    "endOffset": 75396
+                    "endOffset": 75394
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3495,10 +3495,10 @@
                 "to": {
                     "startLine": 1000,
                     "startColumn": 4,
-                    "startOffset": 75401,
+                    "startOffset": 75399,
                     "endLine": 1021,
                     "endColumn": 12,
-                    "endOffset": 76661
+                    "endOffset": 76659
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3508,10 +3508,10 @@
                 "to": {
                     "startLine": 1022,
                     "startColumn": 4,
-                    "startOffset": 76666,
+                    "startOffset": 76664,
                     "endLine": 1028,
                     "endColumn": 12,
-                    "endOffset": 77197
+                    "endOffset": 77195
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3521,10 +3521,10 @@
                 "to": {
                     "startLine": 1029,
                     "startColumn": 4,
-                    "startOffset": 77202,
+                    "startOffset": 77200,
                     "endLine": 1033,
                     "endColumn": 12,
-                    "endOffset": 77527
+                    "endOffset": 77525
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3534,10 +3534,10 @@
                 "to": {
                     "startLine": 1034,
                     "startColumn": 4,
-                    "startOffset": 77532,
+                    "startOffset": 77530,
                     "endLine": 1055,
                     "endColumn": 12,
-                    "endOffset": 78792
+                    "endOffset": 78790
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3547,10 +3547,10 @@
                 "to": {
                     "startLine": 1056,
                     "startColumn": 4,
-                    "startOffset": 78797,
+                    "startOffset": 78795,
                     "endLine": 1060,
                     "endColumn": 12,
-                    "endOffset": 79048
+                    "endOffset": 79046
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3560,10 +3560,10 @@
                 "to": {
                     "startLine": 1061,
                     "startColumn": 4,
-                    "startOffset": 79053,
+                    "startOffset": 79051,
                     "endLine": 1065,
                     "endColumn": 12,
-                    "endOffset": 79284
+                    "endOffset": 79282
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3573,10 +3573,10 @@
                 "to": {
                     "startLine": 1066,
                     "startColumn": 4,
-                    "startOffset": 79289,
+                    "startOffset": 79287,
                     "endLine": 1075,
                     "endColumn": 12,
-                    "endOffset": 79831
+                    "endOffset": 79829
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3586,10 +3586,10 @@
                 "to": {
                     "startLine": 1076,
                     "startColumn": 4,
-                    "startOffset": 79836,
+                    "startOffset": 79834,
                     "endLine": 1084,
                     "endColumn": 12,
-                    "endOffset": 80325
+                    "endOffset": 80323
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3599,10 +3599,10 @@
                 "to": {
                     "startLine": 1085,
                     "startColumn": 4,
-                    "startOffset": 80330,
+                    "startOffset": 80328,
                     "endLine": 1093,
                     "endColumn": 12,
-                    "endOffset": 80930
+                    "endOffset": 80928
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3612,10 +3612,10 @@
                 "to": {
                     "startLine": 1094,
                     "startColumn": 4,
-                    "startOffset": 80935,
+                    "startOffset": 80933,
                     "endLine": 1097,
                     "endColumn": 12,
-                    "endOffset": 81128
+                    "endOffset": 81126
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3625,10 +3625,10 @@
                 "to": {
                     "startLine": 1098,
                     "startColumn": 4,
-                    "startOffset": 81133,
+                    "startOffset": 81131,
                     "endLine": 1104,
                     "endColumn": 12,
-                    "endOffset": 81708
+                    "endOffset": 81706
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3638,10 +3638,10 @@
                 "to": {
                     "startLine": 1105,
                     "startColumn": 4,
-                    "startOffset": 81713,
+                    "startOffset": 81711,
                     "endLine": 1112,
                     "endColumn": 12,
-                    "endOffset": 82272
+                    "endOffset": 82270
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3651,10 +3651,10 @@
                 "to": {
                     "startLine": 1113,
                     "startColumn": 4,
-                    "startOffset": 82277,
+                    "startOffset": 82275,
                     "endLine": 1119,
                     "endColumn": 12,
-                    "endOffset": 82647
+                    "endOffset": 82645
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3664,9 +3664,9 @@
                 "to": {
                     "startLine": 1120,
                     "startColumn": 4,
-                    "startOffset": 82652,
+                    "startOffset": 82650,
                     "endColumn": 117,
-                    "endOffset": 82765
+                    "endOffset": 82763
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3676,10 +3676,10 @@
                 "to": {
                     "startLine": 1121,
                     "startColumn": 4,
-                    "startOffset": 82770,
+                    "startOffset": 82768,
                     "endLine": 1129,
                     "endColumn": 12,
-                    "endOffset": 83303
+                    "endOffset": 83301
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3689,10 +3689,10 @@
                 "to": {
                     "startLine": 1130,
                     "startColumn": 4,
-                    "startOffset": 83308,
+                    "startOffset": 83306,
                     "endLine": 1132,
                     "endColumn": 12,
-                    "endOffset": 83460
+                    "endOffset": 83458
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3702,10 +3702,10 @@
                 "to": {
                     "startLine": 1133,
                     "startColumn": 4,
-                    "startOffset": 83465,
+                    "startOffset": 83463,
                     "endLine": 1135,
                     "endColumn": 12,
-                    "endOffset": 83634
+                    "endOffset": 83632
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3715,10 +3715,10 @@
                 "to": {
                     "startLine": 1136,
                     "startColumn": 4,
-                    "startOffset": 83639,
+                    "startOffset": 83637,
                     "endLine": 1140,
                     "endColumn": 12,
-                    "endOffset": 83954
+                    "endOffset": 83952
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3728,10 +3728,10 @@
                 "to": {
                     "startLine": 1141,
                     "startColumn": 4,
-                    "startOffset": 83959,
+                    "startOffset": 83957,
                     "endLine": 1144,
                     "endColumn": 12,
-                    "endOffset": 84210
+                    "endOffset": 84208
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3741,10 +3741,10 @@
                 "to": {
                     "startLine": 1145,
                     "startColumn": 4,
-                    "startOffset": 84215,
+                    "startOffset": 84213,
                     "endLine": 1148,
                     "endColumn": 12,
-                    "endOffset": 84380
+                    "endOffset": 84378
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3754,10 +3754,10 @@
                 "to": {
                     "startLine": 1149,
                     "startColumn": 4,
-                    "startOffset": 84385,
+                    "startOffset": 84383,
                     "endLine": 1151,
                     "endColumn": 12,
-                    "endOffset": 84521
+                    "endOffset": 84519
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3767,9 +3767,9 @@
                 "to": {
                     "startLine": 1152,
                     "startColumn": 4,
-                    "startOffset": 84526,
+                    "startOffset": 84524,
                     "endColumn": 63,
-                    "endOffset": 84585
+                    "endOffset": 84583
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3779,10 +3779,10 @@
                 "to": {
                     "startLine": 1153,
                     "startColumn": 4,
-                    "startOffset": 84590,
+                    "startOffset": 84588,
                     "endLine": 1156,
                     "endColumn": 12,
-                    "endOffset": 84867
+                    "endOffset": 84865
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3792,10 +3792,10 @@
                 "to": {
                     "startLine": 1157,
                     "startColumn": 4,
-                    "startOffset": 84872,
+                    "startOffset": 84870,
                     "endLine": 1160,
                     "endColumn": 12,
-                    "endOffset": 85153
+                    "endOffset": 85151
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3805,10 +3805,10 @@
                 "to": {
                     "startLine": 1161,
                     "startColumn": 4,
-                    "startOffset": 85158,
+                    "startOffset": 85156,
                     "endLine": 1170,
                     "endColumn": 12,
-                    "endOffset": 85829
+                    "endOffset": 85827
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3818,10 +3818,10 @@
                 "to": {
                     "startLine": 1171,
                     "startColumn": 4,
-                    "startOffset": 85834,
+                    "startOffset": 85832,
                     "endLine": 1175,
                     "endColumn": 12,
-                    "endOffset": 86093
+                    "endOffset": 86091
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3831,10 +3831,10 @@
                 "to": {
                     "startLine": 1176,
                     "startColumn": 4,
-                    "startOffset": 86098,
+                    "startOffset": 86096,
                     "endLine": 1182,
                     "endColumn": 12,
-                    "endOffset": 86431
+                    "endOffset": 86429
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3844,10 +3844,10 @@
                 "to": {
                     "startLine": 1183,
                     "startColumn": 4,
-                    "startOffset": 86436,
+                    "startOffset": 86434,
                     "endLine": 1188,
                     "endColumn": 12,
-                    "endOffset": 86784
+                    "endOffset": 86782
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3857,9 +3857,9 @@
                 "to": {
                     "startLine": 1189,
                     "startColumn": 4,
-                    "startOffset": 86789,
+                    "startOffset": 86787,
                     "endColumn": 93,
-                    "endOffset": 86878
+                    "endOffset": 86876
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3869,10 +3869,10 @@
                 "to": {
                     "startLine": 1190,
                     "startColumn": 4,
-                    "startOffset": 86883,
+                    "startOffset": 86881,
                     "endLine": 1192,
                     "endColumn": 12,
-                    "endOffset": 87064
+                    "endOffset": 87062
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3882,10 +3882,10 @@
                 "to": {
                     "startLine": 1193,
                     "startColumn": 4,
-                    "startOffset": 87069,
+                    "startOffset": 87067,
                     "endLine": 1196,
                     "endColumn": 12,
-                    "endOffset": 87370
+                    "endOffset": 87368
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3895,10 +3895,10 @@
                 "to": {
                     "startLine": 1197,
                     "startColumn": 4,
-                    "startOffset": 87375,
+                    "startOffset": 87373,
                     "endLine": 1201,
                     "endColumn": 12,
-                    "endOffset": 87632
+                    "endOffset": 87630
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3908,10 +3908,10 @@
                 "to": {
                     "startLine": 1202,
                     "startColumn": 4,
-                    "startOffset": 87637,
+                    "startOffset": 87635,
                     "endLine": 1203,
                     "endColumn": 12,
-                    "endOffset": 87757
+                    "endOffset": 87755
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3921,10 +3921,10 @@
                 "to": {
                     "startLine": 1204,
                     "startColumn": 4,
-                    "startOffset": 87762,
+                    "startOffset": 87760,
                     "endLine": 1205,
                     "endColumn": 12,
-                    "endOffset": 87884
+                    "endOffset": 87882
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3934,10 +3934,10 @@
                 "to": {
                     "startLine": 1206,
                     "startColumn": 4,
-                    "startOffset": 87889,
+                    "startOffset": 87887,
                     "endLine": 1208,
                     "endColumn": 12,
-                    "endOffset": 88123
+                    "endOffset": 88121
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3947,10 +3947,10 @@
                 "to": {
                     "startLine": 1209,
                     "startColumn": 4,
-                    "startOffset": 88128,
+                    "startOffset": 88126,
                     "endLine": 1211,
                     "endColumn": 12,
-                    "endOffset": 88334
+                    "endOffset": 88332
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3960,10 +3960,10 @@
                 "to": {
                     "startLine": 1212,
                     "startColumn": 4,
-                    "startOffset": 88339,
+                    "startOffset": 88337,
                     "endLine": 1213,
                     "endColumn": 12,
-                    "endOffset": 88453
+                    "endOffset": 88451
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3973,10 +3973,10 @@
                 "to": {
                     "startLine": 1214,
                     "startColumn": 4,
-                    "startOffset": 88458,
+                    "startOffset": 88456,
                     "endLine": 1217,
                     "endColumn": 12,
-                    "endOffset": 88646
+                    "endOffset": 88644
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3986,10 +3986,10 @@
                 "to": {
                     "startLine": 1218,
                     "startColumn": 4,
-                    "startOffset": 88651,
+                    "startOffset": 88649,
                     "endLine": 1220,
                     "endColumn": 12,
-                    "endOffset": 88823
+                    "endOffset": 88821
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -3999,10 +3999,10 @@
                 "to": {
                     "startLine": 1221,
                     "startColumn": 4,
-                    "startOffset": 88828,
+                    "startOffset": 88826,
                     "endLine": 1227,
                     "endColumn": 12,
-                    "endOffset": 89278
+                    "endOffset": 89276
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4012,10 +4012,10 @@
                 "to": {
                     "startLine": 1228,
                     "startColumn": 4,
-                    "startOffset": 89283,
+                    "startOffset": 89281,
                     "endLine": 1230,
                     "endColumn": 12,
-                    "endOffset": 89459
+                    "endOffset": 89457
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4025,10 +4025,10 @@
                 "to": {
                     "startLine": 1231,
                     "startColumn": 4,
-                    "startOffset": 89464,
+                    "startOffset": 89462,
                     "endLine": 1233,
                     "endColumn": 12,
-                    "endOffset": 89581
+                    "endOffset": 89579
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4038,10 +4038,10 @@
                 "to": {
                     "startLine": 1234,
                     "startColumn": 4,
-                    "startOffset": 89586,
+                    "startOffset": 89584,
                     "endLine": 1237,
                     "endColumn": 12,
-                    "endOffset": 89840
+                    "endOffset": 89838
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4051,10 +4051,10 @@
                 "to": {
                     "startLine": 1238,
                     "startColumn": 4,
-                    "startOffset": 89845,
+                    "startOffset": 89843,
                     "endLine": 1239,
                     "endColumn": 12,
-                    "endOffset": 89953
+                    "endOffset": 89951
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4064,10 +4064,10 @@
                 "to": {
                     "startLine": 1240,
                     "startColumn": 4,
-                    "startOffset": 89958,
+                    "startOffset": 89956,
                     "endLine": 1243,
                     "endColumn": 12,
-                    "endOffset": 90140
+                    "endOffset": 90138
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4077,10 +4077,10 @@
                 "to": {
                     "startLine": 1244,
                     "startColumn": 4,
-                    "startOffset": 90145,
+                    "startOffset": 90143,
                     "endLine": 1245,
                     "endColumn": 12,
-                    "endOffset": 90242
+                    "endOffset": 90240
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4090,10 +4090,10 @@
                 "to": {
                     "startLine": 1246,
                     "startColumn": 4,
-                    "startOffset": 90247,
+                    "startOffset": 90245,
                     "endLine": 1251,
                     "endColumn": 12,
-                    "endOffset": 90686
+                    "endOffset": 90684
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4103,10 +4103,10 @@
                 "to": {
                     "startLine": 1252,
                     "startColumn": 4,
-                    "startOffset": 90691,
+                    "startOffset": 90689,
                     "endLine": 1253,
                     "endColumn": 12,
-                    "endOffset": 90810
+                    "endOffset": 90808
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4116,10 +4116,10 @@
                 "to": {
                     "startLine": 1254,
                     "startColumn": 4,
-                    "startOffset": 90815,
+                    "startOffset": 90813,
                     "endLine": 1257,
                     "endColumn": 12,
-                    "endOffset": 91085
+                    "endOffset": 91083
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4129,10 +4129,10 @@
                 "to": {
                     "startLine": 1258,
                     "startColumn": 4,
-                    "startOffset": 91090,
+                    "startOffset": 91088,
                     "endLine": 1265,
                     "endColumn": 12,
-                    "endOffset": 91593
+                    "endOffset": 91591
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4142,10 +4142,10 @@
                 "to": {
                     "startLine": 1266,
                     "startColumn": 4,
-                    "startOffset": 91598,
+                    "startOffset": 91596,
                     "endLine": 1273,
                     "endColumn": 12,
-                    "endOffset": 92089
+                    "endOffset": 92087
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4155,10 +4155,10 @@
                 "to": {
                     "startLine": 1274,
                     "startColumn": 4,
-                    "startOffset": 92094,
+                    "startOffset": 92092,
                     "endLine": 1285,
                     "endColumn": 12,
-                    "endOffset": 92966
+                    "endOffset": 92964
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4168,10 +4168,10 @@
                 "to": {
                     "startLine": 1286,
                     "startColumn": 4,
-                    "startOffset": 92971,
+                    "startOffset": 92969,
                     "endLine": 1291,
                     "endColumn": 12,
-                    "endOffset": 93260
+                    "endOffset": 93258
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4181,10 +4181,10 @@
                 "to": {
                     "startLine": 1292,
                     "startColumn": 4,
-                    "startOffset": 93265,
+                    "startOffset": 93263,
                     "endLine": 1300,
                     "endColumn": 12,
-                    "endOffset": 93830
+                    "endOffset": 93828
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4194,10 +4194,10 @@
                 "to": {
                     "startLine": 1301,
                     "startColumn": 4,
-                    "startOffset": 93835,
+                    "startOffset": 93833,
                     "endLine": 1303,
                     "endColumn": 12,
-                    "endOffset": 93979
+                    "endOffset": 93977
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4207,10 +4207,10 @@
                 "to": {
                     "startLine": 1304,
                     "startColumn": 4,
-                    "startOffset": 93984,
+                    "startOffset": 93982,
                     "endLine": 1314,
                     "endColumn": 12,
-                    "endOffset": 94711
+                    "endOffset": 94709
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4220,10 +4220,10 @@
                 "to": {
                     "startLine": 1315,
                     "startColumn": 4,
-                    "startOffset": 94716,
+                    "startOffset": 94714,
                     "endLine": 1317,
                     "endColumn": 12,
-                    "endOffset": 94883
+                    "endOffset": 94881
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4233,10 +4233,10 @@
                 "to": {
                     "startLine": 1318,
                     "startColumn": 4,
-                    "startOffset": 94888,
+                    "startOffset": 94886,
                     "endLine": 1322,
                     "endColumn": 12,
-                    "endOffset": 95219
+                    "endOffset": 95217
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4246,10 +4246,10 @@
                 "to": {
                     "startLine": 1323,
                     "startColumn": 4,
-                    "startOffset": 95224,
+                    "startOffset": 95222,
                     "endLine": 1336,
                     "endColumn": 12,
-                    "endOffset": 96277
+                    "endOffset": 96275
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4259,10 +4259,10 @@
                 "to": {
                     "startLine": 1337,
                     "startColumn": 4,
-                    "startOffset": 96282,
+                    "startOffset": 96280,
                     "endLine": 1341,
                     "endColumn": 12,
-                    "endOffset": 96555
+                    "endOffset": 96553
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4272,10 +4272,10 @@
                 "to": {
                     "startLine": 1342,
                     "startColumn": 4,
-                    "startOffset": 96560,
+                    "startOffset": 96558,
                     "endLine": 1383,
                     "endColumn": 12,
-                    "endOffset": 99674
+                    "endOffset": 99672
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4285,10 +4285,10 @@
                 "to": {
                     "startLine": 1384,
                     "startColumn": 4,
-                    "startOffset": 99679,
+                    "startOffset": 99677,
                     "endLine": 1426,
                     "endColumn": 12,
-                    "endOffset": 102933
+                    "endOffset": 102931
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4298,9 +4298,9 @@
                 "to": {
                     "startLine": 1427,
                     "startColumn": 4,
-                    "startOffset": 102938,
+                    "startOffset": 102936,
                     "endColumn": 61,
-                    "endOffset": 102995
+                    "endOffset": 102993
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4310,10 +4310,10 @@
                 "to": {
                     "startLine": 1428,
                     "startColumn": 4,
-                    "startOffset": 103000,
+                    "startOffset": 102998,
                     "endLine": 1437,
                     "endColumn": 12,
-                    "endOffset": 103573
+                    "endOffset": 103571
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4323,10 +4323,10 @@
                 "to": {
                     "startLine": 1438,
                     "startColumn": 4,
-                    "startOffset": 103578,
+                    "startOffset": 103576,
                     "endLine": 1446,
                     "endColumn": 12,
-                    "endOffset": 104157
+                    "endOffset": 104155
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4336,9 +4336,9 @@
                 "to": {
                     "startLine": 1447,
                     "startColumn": 4,
-                    "startOffset": 104162,
+                    "startOffset": 104160,
                     "endColumn": 85,
-                    "endOffset": 104243
+                    "endOffset": 104241
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4348,10 +4348,10 @@
                 "to": {
                     "startLine": 1448,
                     "startColumn": 4,
-                    "startOffset": 104248,
+                    "startOffset": 104246,
                     "endLine": 1449,
                     "endColumn": 12,
-                    "endOffset": 104356
+                    "endOffset": 104354
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4361,10 +4361,10 @@
                 "to": {
                     "startLine": 1450,
                     "startColumn": 4,
-                    "startOffset": 104361,
+                    "startOffset": 104359,
                     "endLine": 1453,
                     "endColumn": 12,
-                    "endOffset": 104585
+                    "endOffset": 104583
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4374,10 +4374,10 @@
                 "to": {
                     "startLine": 1454,
                     "startColumn": 4,
-                    "startOffset": 104590,
+                    "startOffset": 104588,
                     "endLine": 1456,
                     "endColumn": 12,
-                    "endOffset": 104745
+                    "endOffset": 104743
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4387,10 +4387,10 @@
                 "to": {
                     "startLine": 1457,
                     "startColumn": 4,
-                    "startOffset": 104750,
+                    "startOffset": 104748,
                     "endLine": 1459,
                     "endColumn": 12,
-                    "endOffset": 104897
+                    "endOffset": 104895
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4400,10 +4400,10 @@
                 "to": {
                     "startLine": 1460,
                     "startColumn": 4,
-                    "startOffset": 104902,
+                    "startOffset": 104900,
                     "endLine": 1462,
                     "endColumn": 12,
-                    "endOffset": 105068
+                    "endOffset": 105066
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4413,10 +4413,10 @@
                 "to": {
                     "startLine": 1463,
                     "startColumn": 4,
-                    "startOffset": 105073,
+                    "startOffset": 105071,
                     "endLine": 1465,
                     "endColumn": 12,
-                    "endOffset": 105235
+                    "endOffset": 105233
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4426,10 +4426,10 @@
                 "to": {
                     "startLine": 1466,
                     "startColumn": 4,
-                    "startOffset": 105240,
+                    "startOffset": 105238,
                     "endLine": 1469,
                     "endColumn": 12,
-                    "endOffset": 105478
+                    "endOffset": 105476
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4439,10 +4439,10 @@
                 "to": {
                     "startLine": 1470,
                     "startColumn": 4,
-                    "startOffset": 105483,
+                    "startOffset": 105481,
                     "endLine": 1472,
                     "endColumn": 12,
-                    "endOffset": 105648
+                    "endOffset": 105646
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4452,10 +4452,10 @@
                 "to": {
                     "startLine": 1473,
                     "startColumn": 4,
-                    "startOffset": 105653,
+                    "startOffset": 105651,
                     "endLine": 1475,
                     "endColumn": 12,
-                    "endOffset": 105821
+                    "endOffset": 105819
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4465,10 +4465,10 @@
                 "to": {
                     "startLine": 1476,
                     "startColumn": 4,
-                    "startOffset": 105826,
+                    "startOffset": 105824,
                     "endLine": 1478,
                     "endColumn": 12,
-                    "endOffset": 105992
+                    "endOffset": 105990
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4478,10 +4478,10 @@
                 "to": {
                     "startLine": 1479,
                     "startColumn": 4,
-                    "startOffset": 105997,
+                    "startOffset": 105995,
                     "endLine": 1482,
                     "endColumn": 12,
-                    "endOffset": 106266
+                    "endOffset": 106264
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4491,10 +4491,10 @@
                 "to": {
                     "startLine": 1483,
                     "startColumn": 4,
-                    "startOffset": 106271,
+                    "startOffset": 106269,
                     "endLine": 1485,
                     "endColumn": 12,
-                    "endOffset": 106465
+                    "endOffset": 106463
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4504,10 +4504,10 @@
                 "to": {
                     "startLine": 1486,
                     "startColumn": 4,
-                    "startOffset": 106470,
+                    "startOffset": 106468,
                     "endLine": 1489,
                     "endColumn": 12,
-                    "endOffset": 106670
+                    "endOffset": 106668
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4517,10 +4517,10 @@
                 "to": {
                     "startLine": 1490,
                     "startColumn": 4,
-                    "startOffset": 106675,
+                    "startOffset": 106673,
                     "endLine": 1493,
                     "endColumn": 12,
-                    "endOffset": 107000
+                    "endOffset": 106998
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4530,9 +4530,9 @@
                 "to": {
                     "startLine": 1494,
                     "startColumn": 4,
-                    "startOffset": 107005,
+                    "startOffset": 107003,
                     "endColumn": 83,
-                    "endOffset": 107084
+                    "endOffset": 107082
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4542,9 +4542,9 @@
                 "to": {
                     "startLine": 1495,
                     "startColumn": 4,
-                    "startOffset": 107089,
+                    "startOffset": 107087,
                     "endColumn": 95,
-                    "endOffset": 107180
+                    "endOffset": 107178
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4554,9 +4554,9 @@
                 "to": {
                     "startLine": 1496,
                     "startColumn": 4,
-                    "startOffset": 107185,
+                    "startOffset": 107183,
                     "endColumn": 95,
-                    "endOffset": 107276
+                    "endOffset": 107274
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4566,9 +4566,9 @@
                 "to": {
                     "startLine": 1497,
                     "startColumn": 4,
-                    "startOffset": 107281,
+                    "startOffset": 107279,
                     "endColumn": 97,
-                    "endOffset": 107374
+                    "endOffset": 107372
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4578,9 +4578,9 @@
                 "to": {
                     "startLine": 1498,
                     "startColumn": 4,
-                    "startOffset": 107379,
+                    "startOffset": 107377,
                     "endColumn": 99,
-                    "endOffset": 107474
+                    "endOffset": 107472
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4590,9 +4590,9 @@
                 "to": {
                     "startLine": 1499,
                     "startColumn": 4,
-                    "startOffset": 107479,
+                    "startOffset": 107477,
                     "endColumn": 101,
-                    "endOffset": 107576
+                    "endOffset": 107574
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4602,9 +4602,9 @@
                 "to": {
                     "startLine": 1500,
                     "startColumn": 4,
-                    "startOffset": 107581,
+                    "startOffset": 107579,
                     "endColumn": 101,
-                    "endOffset": 107678
+                    "endOffset": 107676
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4614,9 +4614,9 @@
                 "to": {
                     "startLine": 1501,
                     "startColumn": 4,
-                    "startOffset": 107683,
+                    "startOffset": 107681,
                     "endColumn": 101,
-                    "endOffset": 107780
+                    "endOffset": 107778
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4626,9 +4626,9 @@
                 "to": {
                     "startLine": 1502,
                     "startColumn": 4,
-                    "startOffset": 107785,
+                    "startOffset": 107783,
                     "endColumn": 101,
-                    "endOffset": 107882
+                    "endOffset": 107880
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4638,9 +4638,9 @@
                 "to": {
                     "startLine": 1503,
                     "startColumn": 4,
-                    "startOffset": 107887,
+                    "startOffset": 107885,
                     "endColumn": 101,
-                    "endOffset": 107984
+                    "endOffset": 107982
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4650,9 +4650,9 @@
                 "to": {
                     "startLine": 1504,
                     "startColumn": 4,
-                    "startOffset": 107989,
+                    "startOffset": 107987,
                     "endColumn": 99,
-                    "endOffset": 108084
+                    "endOffset": 108082
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4662,9 +4662,9 @@
                 "to": {
                     "startLine": 1505,
                     "startColumn": 4,
-                    "startOffset": 108089,
+                    "startOffset": 108087,
                     "endColumn": 95,
-                    "endOffset": 108180
+                    "endOffset": 108178
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4674,9 +4674,9 @@
                 "to": {
                     "startLine": 1506,
                     "startColumn": 4,
-                    "startOffset": 108185,
+                    "startOffset": 108183,
                     "endColumn": 111,
-                    "endOffset": 108292
+                    "endOffset": 108290
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4686,9 +4686,9 @@
                 "to": {
                     "startLine": 1507,
                     "startColumn": 4,
-                    "startOffset": 108297,
+                    "startOffset": 108295,
                     "endColumn": 128,
-                    "endOffset": 108421
+                    "endOffset": 108419
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4698,9 +4698,9 @@
                 "to": {
                     "startLine": 1508,
                     "startColumn": 4,
-                    "startOffset": 108426,
+                    "startOffset": 108424,
                     "endColumn": 122,
-                    "endOffset": 108544
+                    "endOffset": 108542
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4710,9 +4710,9 @@
                 "to": {
                     "startLine": 1509,
                     "startColumn": 4,
-                    "startOffset": 108549,
+                    "startOffset": 108547,
                     "endColumn": 130,
-                    "endOffset": 108675
+                    "endOffset": 108673
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4722,9 +4722,9 @@
                 "to": {
                     "startLine": 1510,
                     "startColumn": 4,
-                    "startOffset": 108680,
+                    "startOffset": 108678,
                     "endColumn": 130,
-                    "endOffset": 108806
+                    "endOffset": 108804
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4734,9 +4734,9 @@
                 "to": {
                     "startLine": 1511,
                     "startColumn": 4,
-                    "startOffset": 108811,
+                    "startOffset": 108809,
                     "endColumn": 97,
-                    "endOffset": 108904
+                    "endOffset": 108902
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4746,9 +4746,9 @@
                 "to": {
                     "startLine": 1512,
                     "startColumn": 4,
-                    "startOffset": 108909,
+                    "startOffset": 108907,
                     "endColumn": 113,
-                    "endOffset": 109018
+                    "endOffset": 109016
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4758,9 +4758,9 @@
                 "to": {
                     "startLine": 1513,
                     "startColumn": 4,
-                    "startOffset": 109023,
+                    "startOffset": 109021,
                     "endColumn": 93,
-                    "endOffset": 109112
+                    "endOffset": 109110
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4770,10 +4770,10 @@
                 "to": {
                     "startLine": 1514,
                     "startColumn": 4,
-                    "startOffset": 109117,
+                    "startOffset": 109115,
                     "endLine": 1515,
                     "endColumn": 12,
-                    "endOffset": 109252
+                    "endOffset": 109250
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4783,10 +4783,10 @@
                 "to": {
                     "startLine": 1516,
                     "startColumn": 4,
-                    "startOffset": 109257,
+                    "startOffset": 109255,
                     "endLine": 1517,
                     "endColumn": 12,
-                    "endOffset": 109386
+                    "endOffset": 109384
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4796,9 +4796,9 @@
                 "to": {
                     "startLine": 1518,
                     "startColumn": 4,
-                    "startOffset": 109391,
+                    "startOffset": 109389,
                     "endColumn": 95,
-                    "endOffset": 109482
+                    "endOffset": 109480
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4808,9 +4808,9 @@
                 "to": {
                     "startLine": 1519,
                     "startColumn": 4,
-                    "startOffset": 109487,
+                    "startOffset": 109485,
                     "endColumn": 111,
-                    "endOffset": 109594
+                    "endOffset": 109592
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4820,9 +4820,9 @@
                 "to": {
                     "startLine": 1520,
                     "startColumn": 4,
-                    "startOffset": 109599,
+                    "startOffset": 109597,
                     "endColumn": 99,
-                    "endOffset": 109694
+                    "endOffset": 109692
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4832,9 +4832,9 @@
                 "to": {
                     "startLine": 1521,
                     "startColumn": 4,
-                    "startOffset": 109699,
+                    "startOffset": 109697,
                     "endColumn": 115,
-                    "endOffset": 109810
+                    "endOffset": 109808
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4844,9 +4844,9 @@
                 "to": {
                     "startLine": 1522,
                     "startColumn": 4,
-                    "startOffset": 109815,
+                    "startOffset": 109813,
                     "endColumn": 95,
-                    "endOffset": 109906
+                    "endOffset": 109904
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4856,9 +4856,9 @@
                 "to": {
                     "startLine": 1523,
                     "startColumn": 4,
-                    "startOffset": 109911,
+                    "startOffset": 109909,
                     "endColumn": 111,
-                    "endOffset": 110018
+                    "endOffset": 110016
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4868,10 +4868,10 @@
                 "to": {
                     "startLine": 1524,
                     "startColumn": 4,
-                    "startOffset": 110023,
+                    "startOffset": 110021,
                     "endLine": 1525,
                     "endColumn": 12,
-                    "endOffset": 110158
+                    "endOffset": 110156
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4881,9 +4881,9 @@
                 "to": {
                     "startLine": 1526,
                     "startColumn": 4,
-                    "startOffset": 110163,
+                    "startOffset": 110161,
                     "endColumn": 135,
-                    "endOffset": 110294
+                    "endOffset": 110292
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4893,10 +4893,10 @@
                 "to": {
                     "startLine": 1527,
                     "startColumn": 4,
-                    "startOffset": 110299,
+                    "startOffset": 110297,
                     "endLine": 1528,
                     "endColumn": 12,
-                    "endOffset": 110458
+                    "endOffset": 110456
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4906,9 +4906,9 @@
                 "to": {
                     "startLine": 1529,
                     "startColumn": 4,
-                    "startOffset": 110463,
+                    "startOffset": 110461,
                     "endColumn": 129,
-                    "endOffset": 110588
+                    "endOffset": 110586
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4918,10 +4918,10 @@
                 "to": {
                     "startLine": 1530,
                     "startColumn": 4,
-                    "startOffset": 110593,
+                    "startOffset": 110591,
                     "endLine": 1531,
                     "endColumn": 12,
-                    "endOffset": 110746
+                    "endOffset": 110744
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4931,10 +4931,10 @@
                 "to": {
                     "startLine": 1532,
                     "startColumn": 4,
-                    "startOffset": 110751,
+                    "startOffset": 110749,
                     "endLine": 1533,
                     "endColumn": 12,
-                    "endOffset": 110896
+                    "endOffset": 110894
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4944,9 +4944,9 @@
                 "to": {
                     "startLine": 1534,
                     "startColumn": 4,
-                    "startOffset": 110901,
+                    "startOffset": 110899,
                     "endColumn": 140,
-                    "endOffset": 111037
+                    "endOffset": 111035
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4956,10 +4956,10 @@
                 "to": {
                     "startLine": 1535,
                     "startColumn": 4,
-                    "startOffset": 111042,
+                    "startOffset": 111040,
                     "endLine": 1536,
                     "endColumn": 12,
-                    "endOffset": 111181
+                    "endOffset": 111179
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4969,9 +4969,9 @@
                 "to": {
                     "startLine": 1537,
                     "startColumn": 4,
-                    "startOffset": 111186,
+                    "startOffset": 111184,
                     "endColumn": 134,
-                    "endOffset": 111316
+                    "endOffset": 111314
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4981,9 +4981,9 @@
                 "to": {
                     "startLine": 1538,
                     "startColumn": 4,
-                    "startOffset": 111321,
+                    "startOffset": 111319,
                     "endColumn": 111,
-                    "endOffset": 111428
+                    "endOffset": 111426
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -4993,9 +4993,9 @@
                 "to": {
                     "startLine": 1539,
                     "startColumn": 4,
-                    "startOffset": 111433,
+                    "startOffset": 111431,
                     "endColumn": 127,
-                    "endOffset": 111556
+                    "endOffset": 111554
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5005,10 +5005,10 @@
                 "to": {
                     "startLine": 1540,
                     "startColumn": 4,
-                    "startOffset": 111561,
+                    "startOffset": 111559,
                     "endLine": 1541,
                     "endColumn": 12,
-                    "endOffset": 111692
+                    "endOffset": 111690
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5018,9 +5018,9 @@
                 "to": {
                     "startLine": 1542,
                     "startColumn": 4,
-                    "startOffset": 111697,
+                    "startOffset": 111695,
                     "endColumn": 131,
-                    "endOffset": 111824
+                    "endOffset": 111822
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5030,9 +5030,9 @@
                 "to": {
                     "startLine": 1543,
                     "startColumn": 4,
-                    "startOffset": 111829,
+                    "startOffset": 111827,
                     "endColumn": 129,
-                    "endOffset": 111954
+                    "endOffset": 111952
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5042,9 +5042,9 @@
                 "to": {
                     "startLine": 1544,
                     "startColumn": 4,
-                    "startOffset": 111959,
+                    "startOffset": 111957,
                     "endColumn": 129,
-                    "endOffset": 112084
+                    "endOffset": 112082
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5054,9 +5054,9 @@
                 "to": {
                     "startLine": 1545,
                     "startColumn": 4,
-                    "startOffset": 112089,
+                    "startOffset": 112087,
                     "endColumn": 111,
-                    "endOffset": 112196
+                    "endOffset": 112194
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5066,9 +5066,9 @@
                 "to": {
                     "startLine": 1546,
                     "startColumn": 4,
-                    "startOffset": 112201,
+                    "startOffset": 112199,
                     "endColumn": 139,
-                    "endOffset": 112336
+                    "endOffset": 112334
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5078,9 +5078,9 @@
                 "to": {
                     "startLine": 1547,
                     "startColumn": 4,
-                    "startOffset": 112341,
+                    "startOffset": 112339,
                     "endColumn": 67,
-                    "endOffset": 112404
+                    "endOffset": 112402
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5090,9 +5090,9 @@
                 "to": {
                     "startLine": 1548,
                     "startColumn": 4,
-                    "startOffset": 112409,
+                    "startOffset": 112407,
                     "endColumn": 72,
-                    "endOffset": 112477
+                    "endOffset": 112475
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5102,9 +5102,9 @@
                 "to": {
                     "startLine": 1549,
                     "startColumn": 4,
-                    "startOffset": 112482,
+                    "startOffset": 112480,
                     "endColumn": 73,
-                    "endOffset": 112551
+                    "endOffset": 112549
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5114,9 +5114,9 @@
                 "to": {
                     "startLine": 1550,
                     "startColumn": 4,
-                    "startOffset": 112556,
+                    "startOffset": 112554,
                     "endColumn": 72,
-                    "endOffset": 112624
+                    "endOffset": 112622
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5126,9 +5126,9 @@
                 "to": {
                     "startLine": 1551,
                     "startColumn": 4,
-                    "startOffset": 112629,
+                    "startOffset": 112627,
                     "endColumn": 73,
-                    "endOffset": 112698
+                    "endOffset": 112696
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5138,10 +5138,10 @@
                 "to": {
                     "startLine": 1552,
                     "startColumn": 4,
-                    "startOffset": 112703,
+                    "startOffset": 112701,
                     "endLine": 1553,
                     "endColumn": 12,
-                    "endOffset": 112844
+                    "endOffset": 112842
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5151,10 +5151,10 @@
                 "to": {
                     "startLine": 1554,
                     "startColumn": 4,
-                    "startOffset": 112849,
+                    "startOffset": 112847,
                     "endLine": 1555,
                     "endColumn": 12,
-                    "endOffset": 112988
+                    "endOffset": 112986
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5164,10 +5164,10 @@
                 "to": {
                     "startLine": 1556,
                     "startColumn": 4,
-                    "startOffset": 112993,
+                    "startOffset": 112991,
                     "endLine": 1557,
                     "endColumn": 12,
-                    "endOffset": 113126
+                    "endOffset": 113124
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5177,9 +5177,9 @@
                 "to": {
                     "startLine": 1558,
                     "startColumn": 4,
-                    "startOffset": 113131,
+                    "startOffset": 113129,
                     "endColumn": 65,
-                    "endOffset": 113192
+                    "endOffset": 113190
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5189,9 +5189,9 @@
                 "to": {
                     "startLine": 1559,
                     "startColumn": 4,
-                    "startOffset": 113197,
+                    "startOffset": 113195,
                     "endColumn": 89,
-                    "endOffset": 113282
+                    "endOffset": 113280
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5201,9 +5201,9 @@
                 "to": {
                     "startLine": 1560,
                     "startColumn": 4,
-                    "startOffset": 113287,
+                    "startOffset": 113285,
                     "endColumn": 75,
-                    "endOffset": 113358
+                    "endOffset": 113356
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5213,9 +5213,9 @@
                 "to": {
                     "startLine": 1561,
                     "startColumn": 4,
-                    "startOffset": 113363,
+                    "startOffset": 113361,
                     "endColumn": 103,
-                    "endOffset": 113462
+                    "endOffset": 113460
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5225,9 +5225,9 @@
                 "to": {
                     "startLine": 1562,
                     "startColumn": 4,
-                    "startOffset": 113467,
+                    "startOffset": 113465,
                     "endColumn": 89,
-                    "endOffset": 113552
+                    "endOffset": 113550
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5237,9 +5237,9 @@
                 "to": {
                     "startLine": 1563,
                     "startColumn": 4,
-                    "startOffset": 113557,
+                    "startOffset": 113555,
                     "endColumn": 101,
-                    "endOffset": 113654
+                    "endOffset": 113652
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5249,9 +5249,9 @@
                 "to": {
                     "startLine": 1564,
                     "startColumn": 4,
-                    "startOffset": 113659,
+                    "startOffset": 113657,
                     "endColumn": 107,
-                    "endOffset": 113762
+                    "endOffset": 113760
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5261,9 +5261,9 @@
                 "to": {
                     "startLine": 1565,
                     "startColumn": 4,
-                    "startOffset": 113767,
+                    "startOffset": 113765,
                     "endColumn": 107,
-                    "endOffset": 113870
+                    "endOffset": 113868
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5273,9 +5273,9 @@
                 "to": {
                     "startLine": 1566,
                     "startColumn": 4,
-                    "startOffset": 113875,
+                    "startOffset": 113873,
                     "endColumn": 99,
-                    "endOffset": 113970
+                    "endOffset": 113968
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5285,9 +5285,9 @@
                 "to": {
                     "startLine": 1567,
                     "startColumn": 4,
-                    "startOffset": 113975,
+                    "startOffset": 113973,
                     "endColumn": 79,
-                    "endOffset": 114050
+                    "endOffset": 114048
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5297,9 +5297,9 @@
                 "to": {
                     "startLine": 1568,
                     "startColumn": 4,
-                    "startOffset": 114055,
+                    "startOffset": 114053,
                     "endColumn": 91,
-                    "endOffset": 114142
+                    "endOffset": 114140
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5309,9 +5309,9 @@
                 "to": {
                     "startLine": 1569,
                     "startColumn": 4,
-                    "startOffset": 114147,
+                    "startOffset": 114145,
                     "endColumn": 97,
-                    "endOffset": 114240
+                    "endOffset": 114238
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5321,10 +5321,10 @@
                 "to": {
                     "startLine": 1570,
                     "startColumn": 4,
-                    "startOffset": 114245,
+                    "startOffset": 114243,
                     "endLine": 1571,
                     "endColumn": 12,
-                    "endOffset": 114350
+                    "endOffset": 114348
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5334,9 +5334,9 @@
                 "to": {
                     "startLine": 1572,
                     "startColumn": 4,
-                    "startOffset": 114355,
+                    "startOffset": 114353,
                     "endColumn": 77,
-                    "endOffset": 114428
+                    "endOffset": 114426
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5346,9 +5346,9 @@
                 "to": {
                     "startLine": 1573,
                     "startColumn": 4,
-                    "startOffset": 114433,
+                    "startOffset": 114431,
                     "endColumn": 105,
-                    "endOffset": 114534
+                    "endOffset": 114532
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5358,9 +5358,9 @@
                 "to": {
                     "startLine": 1574,
                     "startColumn": 4,
-                    "startOffset": 114539,
+                    "startOffset": 114537,
                     "endColumn": 91,
-                    "endOffset": 114626
+                    "endOffset": 114624
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5370,9 +5370,9 @@
                 "to": {
                     "startLine": 1575,
                     "startColumn": 4,
-                    "startOffset": 114631,
+                    "startOffset": 114629,
                     "endColumn": 103,
-                    "endOffset": 114730
+                    "endOffset": 114728
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5382,9 +5382,9 @@
                 "to": {
                     "startLine": 1576,
                     "startColumn": 4,
-                    "startOffset": 114735,
+                    "startOffset": 114733,
                     "endColumn": 109,
-                    "endOffset": 114840
+                    "endOffset": 114838
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5394,10 +5394,10 @@
                 "to": {
                     "startLine": 1577,
                     "startColumn": 4,
-                    "startOffset": 114845,
+                    "startOffset": 114843,
                     "endLine": 1578,
                     "endColumn": 12,
-                    "endOffset": 114962
+                    "endOffset": 114960
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5407,10 +5407,10 @@
                 "to": {
                     "startLine": 1579,
                     "startColumn": 4,
-                    "startOffset": 114967,
+                    "startOffset": 114965,
                     "endLine": 1582,
                     "endColumn": 12,
-                    "endOffset": 115125
+                    "endOffset": 115123
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5420,10 +5420,10 @@
                 "to": {
                     "startLine": 1583,
                     "startColumn": 4,
-                    "startOffset": 115130,
+                    "startOffset": 115128,
                     "endLine": 1586,
                     "endColumn": 12,
-                    "endOffset": 115282
+                    "endOffset": 115280
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5433,9 +5433,9 @@
                 "to": {
                     "startLine": 1587,
                     "startColumn": 4,
-                    "startOffset": 115287,
+                    "startOffset": 115285,
                     "endColumn": 79,
-                    "endOffset": 115362
+                    "endOffset": 115360
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5445,9 +5445,9 @@
                 "to": {
                     "startLine": 1588,
                     "startColumn": 4,
-                    "startOffset": 115367,
+                    "startOffset": 115365,
                     "endColumn": 99,
-                    "endOffset": 115462
+                    "endOffset": 115460
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5457,9 +5457,9 @@
                 "to": {
                     "startLine": 1589,
                     "startColumn": 4,
-                    "startOffset": 115467,
+                    "startOffset": 115465,
                     "endColumn": 89,
-                    "endOffset": 115552
+                    "endOffset": 115550
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5469,9 +5469,9 @@
                 "to": {
                     "startLine": 1590,
                     "startColumn": 4,
-                    "startOffset": 115557,
+                    "startOffset": 115555,
                     "endColumn": 109,
-                    "endOffset": 115662
+                    "endOffset": 115660
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5481,9 +5481,9 @@
                 "to": {
                     "startLine": 1591,
                     "startColumn": 4,
-                    "startOffset": 115667,
+                    "startOffset": 115665,
                     "endColumn": 93,
-                    "endOffset": 115756
+                    "endOffset": 115754
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5493,9 +5493,9 @@
                 "to": {
                     "startLine": 1592,
                     "startColumn": 4,
-                    "startOffset": 115761,
+                    "startOffset": 115759,
                     "endColumn": 105,
-                    "endOffset": 115862
+                    "endOffset": 115860
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5505,9 +5505,9 @@
                 "to": {
                     "startLine": 1593,
                     "startColumn": 4,
-                    "startOffset": 115867,
+                    "startOffset": 115865,
                     "endColumn": 91,
-                    "endOffset": 115954
+                    "endOffset": 115952
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5517,10 +5517,10 @@
                 "to": {
                     "startLine": 1594,
                     "startColumn": 4,
-                    "startOffset": 115959,
+                    "startOffset": 115957,
                     "endLine": 1595,
                     "endColumn": 12,
-                    "endOffset": 116054
+                    "endOffset": 116052
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5530,10 +5530,10 @@
                 "to": {
                     "startLine": 1596,
                     "startColumn": 4,
-                    "startOffset": 116059,
+                    "startOffset": 116057,
                     "endLine": 1597,
                     "endColumn": 12,
-                    "endOffset": 116166
+                    "endOffset": 116164
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5543,10 +5543,10 @@
                 "to": {
                     "startLine": 1598,
                     "startColumn": 4,
-                    "startOffset": 116171,
+                    "startOffset": 116169,
                     "endLine": 1599,
                     "endColumn": 12,
-                    "endOffset": 116280
+                    "endOffset": 116278
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5556,10 +5556,10 @@
                 "to": {
                     "startLine": 1600,
                     "startColumn": 4,
-                    "startOffset": 116285,
+                    "startOffset": 116283,
                     "endLine": 1601,
                     "endColumn": 12,
-                    "endOffset": 116396
+                    "endOffset": 116394
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5569,10 +5569,10 @@
                 "to": {
                     "startLine": 1602,
                     "startColumn": 4,
-                    "startOffset": 116401,
+                    "startOffset": 116399,
                     "endLine": 1603,
                     "endColumn": 12,
-                    "endOffset": 116512
+                    "endOffset": 116510
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5582,9 +5582,9 @@
                 "to": {
                     "startLine": 1604,
                     "startColumn": 4,
-                    "startOffset": 116517,
+                    "startOffset": 116515,
                     "endColumn": 93,
-                    "endOffset": 116606
+                    "endOffset": 116604
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5594,9 +5594,9 @@
                 "to": {
                     "startLine": 1605,
                     "startColumn": 4,
-                    "startOffset": 116611,
+                    "startOffset": 116609,
                     "endColumn": 113,
-                    "endOffset": 116720
+                    "endOffset": 116718
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5606,9 +5606,9 @@
                 "to": {
                     "startLine": 1606,
                     "startColumn": 4,
-                    "startOffset": 116725,
+                    "startOffset": 116723,
                     "endColumn": 111,
-                    "endOffset": 116832
+                    "endOffset": 116830
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5618,10 +5618,10 @@
                 "to": {
                     "startLine": 1607,
                     "startColumn": 4,
-                    "startOffset": 116837,
+                    "startOffset": 116835,
                     "endLine": 1608,
                     "endColumn": 12,
-                    "endOffset": 116934
+                    "endOffset": 116932
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5631,10 +5631,10 @@
                 "to": {
                     "startLine": 1609,
                     "startColumn": 4,
-                    "startOffset": 116939,
+                    "startOffset": 116937,
                     "endLine": 1610,
                     "endColumn": 12,
-                    "endOffset": 117054
+                    "endOffset": 117052
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5644,10 +5644,10 @@
                 "to": {
                     "startLine": 1611,
                     "startColumn": 4,
-                    "startOffset": 117059,
+                    "startOffset": 117057,
                     "endLine": 1612,
                     "endColumn": 12,
-                    "endOffset": 117176
+                    "endOffset": 117174
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5657,9 +5657,9 @@
                 "to": {
                     "startLine": 1613,
                     "startColumn": 4,
-                    "startOffset": 117181,
+                    "startOffset": 117179,
                     "endColumn": 81,
-                    "endOffset": 117258
+                    "endOffset": 117256
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5669,9 +5669,9 @@
                 "to": {
                     "startLine": 1614,
                     "startColumn": 4,
-                    "startOffset": 117263,
+                    "startOffset": 117261,
                     "endColumn": 103,
-                    "endOffset": 117362
+                    "endOffset": 117360
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5681,9 +5681,9 @@
                 "to": {
                     "startLine": 1615,
                     "startColumn": 4,
-                    "startOffset": 117367,
+                    "startOffset": 117365,
                     "endColumn": 119,
-                    "endOffset": 117482
+                    "endOffset": 117480
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5693,9 +5693,9 @@
                 "to": {
                     "startLine": 1616,
                     "startColumn": 4,
-                    "startOffset": 117487,
+                    "startOffset": 117485,
                     "endColumn": 125,
-                    "endOffset": 117608
+                    "endOffset": 117606
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5705,9 +5705,9 @@
                 "to": {
                     "startLine": 1617,
                     "startColumn": 4,
-                    "startOffset": 117613,
+                    "startOffset": 117611,
                     "endColumn": 97,
-                    "endOffset": 117706
+                    "endOffset": 117704
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5717,9 +5717,9 @@
                 "to": {
                     "startLine": 1618,
                     "startColumn": 4,
-                    "startOffset": 117711,
+                    "startOffset": 117709,
                     "endColumn": 93,
-                    "endOffset": 117800
+                    "endOffset": 117798
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5729,9 +5729,9 @@
                 "to": {
                     "startLine": 1619,
                     "startColumn": 4,
-                    "startOffset": 117805,
+                    "startOffset": 117803,
                     "endColumn": 87,
-                    "endOffset": 117888
+                    "endOffset": 117886
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5741,9 +5741,9 @@
                 "to": {
                     "startLine": 1620,
                     "startColumn": 4,
-                    "startOffset": 117893,
+                    "startOffset": 117891,
                     "endColumn": 111,
-                    "endOffset": 118000
+                    "endOffset": 117998
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5753,9 +5753,9 @@
                 "to": {
                     "startLine": 1621,
                     "startColumn": 4,
-                    "startOffset": 118005,
+                    "startOffset": 118003,
                     "endColumn": 115,
-                    "endOffset": 118116
+                    "endOffset": 118114
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5765,9 +5765,9 @@
                 "to": {
                     "startLine": 1622,
                     "startColumn": 4,
-                    "startOffset": 118121,
+                    "startOffset": 118119,
                     "endColumn": 121,
-                    "endOffset": 118238
+                    "endOffset": 118236
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5777,9 +5777,9 @@
                 "to": {
                     "startLine": 1623,
                     "startColumn": 4,
-                    "startOffset": 118243,
+                    "startOffset": 118241,
                     "endColumn": 111,
-                    "endOffset": 118350
+                    "endOffset": 118348
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5789,10 +5789,10 @@
                 "to": {
                     "startLine": 1624,
                     "startColumn": 4,
-                    "startOffset": 118355,
+                    "startOffset": 118353,
                     "endLine": 1626,
                     "endColumn": 12,
-                    "endOffset": 118525
+                    "endOffset": 118523
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5802,9 +5802,9 @@
                 "to": {
                     "startLine": 1627,
                     "startColumn": 4,
-                    "startOffset": 118530,
+                    "startOffset": 118528,
                     "endColumn": 115,
-                    "endOffset": 118641
+                    "endOffset": 118639
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5814,9 +5814,9 @@
                 "to": {
                     "startLine": 1628,
                     "startColumn": 4,
-                    "startOffset": 118646,
+                    "startOffset": 118644,
                     "endColumn": 85,
-                    "endOffset": 118727
+                    "endOffset": 118725
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5826,9 +5826,9 @@
                 "to": {
                     "startLine": 1629,
                     "startColumn": 4,
-                    "startOffset": 118732,
+                    "startOffset": 118730,
                     "endColumn": 91,
-                    "endOffset": 118819
+                    "endOffset": 118817
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5838,10 +5838,10 @@
                 "to": {
                     "startLine": 1630,
                     "startColumn": 4,
-                    "startOffset": 118824,
+                    "startOffset": 118822,
                     "endLine": 1631,
                     "endColumn": 12,
-                    "endOffset": 118931
+                    "endOffset": 118929
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5851,10 +5851,10 @@
                 "to": {
                     "startLine": 1632,
                     "startColumn": 4,
-                    "startOffset": 118936,
+                    "startOffset": 118934,
                     "endLine": 1633,
                     "endColumn": 12,
-                    "endOffset": 119055
+                    "endOffset": 119053
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5864,9 +5864,9 @@
                 "to": {
                     "startLine": 1634,
                     "startColumn": 4,
-                    "startOffset": 119060,
+                    "startOffset": 119058,
                     "endColumn": 66,
-                    "endOffset": 119122
+                    "endOffset": 119120
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5876,10 +5876,10 @@
                 "to": {
                     "startLine": 1635,
                     "startColumn": 4,
-                    "startOffset": 119127,
+                    "startOffset": 119125,
                     "endLine": 1636,
                     "endColumn": 12,
-                    "endOffset": 119248
+                    "endOffset": 119246
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5889,9 +5889,9 @@
                 "to": {
                     "startLine": 1637,
                     "startColumn": 4,
-                    "startOffset": 119253,
+                    "startOffset": 119251,
                     "endColumn": 67,
-                    "endOffset": 119316
+                    "endOffset": 119314
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5901,10 +5901,10 @@
                 "to": {
                     "startLine": 1638,
                     "startColumn": 4,
-                    "startOffset": 119321,
+                    "startOffset": 119319,
                     "endLine": 1639,
                     "endColumn": 12,
-                    "endOffset": 119444
+                    "endOffset": 119442
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5914,10 +5914,10 @@
                 "to": {
                     "startLine": 1640,
                     "startColumn": 4,
-                    "startOffset": 119449,
+                    "startOffset": 119447,
                     "endLine": 1641,
                     "endColumn": 12,
-                    "endOffset": 119588
+                    "endOffset": 119586
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5927,10 +5927,10 @@
                 "to": {
                     "startLine": 1642,
                     "startColumn": 4,
-                    "startOffset": 119593,
+                    "startOffset": 119591,
                     "endLine": 1643,
                     "endColumn": 12,
-                    "endOffset": 119716
+                    "endOffset": 119714
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5940,9 +5940,9 @@
                 "to": {
                     "startLine": 1644,
                     "startColumn": 4,
-                    "startOffset": 119721,
+                    "startOffset": 119719,
                     "endColumn": 68,
-                    "endOffset": 119785
+                    "endOffset": 119783
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5952,9 +5952,9 @@
                 "to": {
                     "startLine": 1645,
                     "startColumn": 4,
-                    "startOffset": 119790,
+                    "startOffset": 119788,
                     "endColumn": 94,
-                    "endOffset": 119880
+                    "endOffset": 119878
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5964,9 +5964,9 @@
                 "to": {
                     "startLine": 1646,
                     "startColumn": 4,
-                    "startOffset": 119885,
+                    "startOffset": 119883,
                     "endColumn": 114,
-                    "endOffset": 119995
+                    "endOffset": 119993
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5976,9 +5976,9 @@
                 "to": {
                     "startLine": 1647,
                     "startColumn": 4,
-                    "startOffset": 120000,
+                    "startOffset": 119998,
                     "endColumn": 112,
-                    "endOffset": 120108
+                    "endOffset": 120106
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -5988,9 +5988,9 @@
                 "to": {
                     "startLine": 1648,
                     "startColumn": 4,
-                    "startOffset": 120113,
+                    "startOffset": 120111,
                     "endColumn": 98,
-                    "endOffset": 120207
+                    "endOffset": 120205
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6000,9 +6000,9 @@
                 "to": {
                     "startLine": 1649,
                     "startColumn": 4,
-                    "startOffset": 120212,
+                    "startOffset": 120210,
                     "endColumn": 108,
-                    "endOffset": 120316
+                    "endOffset": 120314
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6012,9 +6012,9 @@
                 "to": {
                     "startLine": 1650,
                     "startColumn": 4,
-                    "startOffset": 120321,
+                    "startOffset": 120319,
                     "endColumn": 110,
-                    "endOffset": 120427
+                    "endOffset": 120425
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6024,9 +6024,9 @@
                 "to": {
                     "startLine": 1651,
                     "startColumn": 4,
-                    "startOffset": 120432,
+                    "startOffset": 120430,
                     "endColumn": 110,
-                    "endOffset": 120538
+                    "endOffset": 120536
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6036,9 +6036,9 @@
                 "to": {
                     "startLine": 1652,
                     "startColumn": 4,
-                    "startOffset": 120543,
+                    "startOffset": 120541,
                     "endColumn": 100,
-                    "endOffset": 120639
+                    "endOffset": 120637
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6048,9 +6048,9 @@
                 "to": {
                     "startLine": 1653,
                     "startColumn": 4,
-                    "startOffset": 120644,
+                    "startOffset": 120642,
                     "endColumn": 104,
-                    "endOffset": 120744
+                    "endOffset": 120742
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6060,9 +6060,9 @@
                 "to": {
                     "startLine": 1654,
                     "startColumn": 4,
-                    "startOffset": 120749,
+                    "startOffset": 120747,
                     "endColumn": 99,
-                    "endOffset": 120844
+                    "endOffset": 120842
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6072,10 +6072,10 @@
                 "to": {
                     "startLine": 1655,
                     "startColumn": 4,
-                    "startOffset": 120849,
+                    "startOffset": 120847,
                     "endLine": 1656,
                     "endColumn": 12,
-                    "endOffset": 120974
+                    "endOffset": 120972
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6085,9 +6085,9 @@
                 "to": {
                     "startLine": 1657,
                     "startColumn": 4,
-                    "startOffset": 120979,
+                    "startOffset": 120977,
                     "endColumn": 90,
-                    "endOffset": 121065
+                    "endOffset": 121063
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6097,9 +6097,9 @@
                 "to": {
                     "startLine": 1658,
                     "startColumn": 4,
-                    "startOffset": 121070,
+                    "startOffset": 121068,
                     "endColumn": 122,
-                    "endOffset": 121188
+                    "endOffset": 121186
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6109,9 +6109,9 @@
                 "to": {
                     "startLine": 1659,
                     "startColumn": 4,
-                    "startOffset": 121193,
+                    "startOffset": 121191,
                     "endColumn": 93,
-                    "endOffset": 121282
+                    "endOffset": 121280
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6121,10 +6121,10 @@
                 "to": {
                     "startLine": 1660,
                     "startColumn": 4,
-                    "startOffset": 121287,
+                    "startOffset": 121285,
                     "endLine": 1661,
                     "endColumn": 12,
-                    "endOffset": 121394
+                    "endOffset": 121392
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6134,9 +6134,9 @@
                 "to": {
                     "startLine": 1662,
                     "startColumn": 4,
-                    "startOffset": 121399,
+                    "startOffset": 121397,
                     "endColumn": 85,
-                    "endOffset": 121480
+                    "endOffset": 121478
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6146,9 +6146,9 @@
                 "to": {
                     "startLine": 1663,
                     "startColumn": 4,
-                    "startOffset": 121485,
+                    "startOffset": 121483,
                     "endColumn": 103,
-                    "endOffset": 121584
+                    "endOffset": 121582
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6158,9 +6158,9 @@
                 "to": {
                     "startLine": 1664,
                     "startColumn": 4,
-                    "startOffset": 121589,
+                    "startOffset": 121587,
                     "endColumn": 95,
-                    "endOffset": 121680
+                    "endOffset": 121678
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6170,9 +6170,9 @@
                 "to": {
                     "startLine": 1665,
                     "startColumn": 4,
-                    "startOffset": 121685,
+                    "startOffset": 121683,
                     "endColumn": 87,
-                    "endOffset": 121768
+                    "endOffset": 121766
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6182,10 +6182,10 @@
                 "to": {
                     "startLine": 1666,
                     "startColumn": 4,
-                    "startOffset": 121773,
+                    "startOffset": 121771,
                     "endLine": 1667,
                     "endColumn": 12,
-                    "endOffset": 121886
+                    "endOffset": 121884
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6195,10 +6195,10 @@
                 "to": {
                     "startLine": 1668,
                     "startColumn": 4,
-                    "startOffset": 121891,
+                    "startOffset": 121889,
                     "endLine": 1669,
                     "endColumn": 12,
-                    "endOffset": 121990
+                    "endOffset": 121988
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6208,10 +6208,10 @@
                 "to": {
                     "startLine": 1670,
                     "startColumn": 4,
-                    "startOffset": 121995,
+                    "startOffset": 121993,
                     "endLine": 1671,
                     "endColumn": 12,
-                    "endOffset": 122094
+                    "endOffset": 122092
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6221,10 +6221,10 @@
                 "to": {
                     "startLine": 1672,
                     "startColumn": 4,
-                    "startOffset": 122099,
+                    "startOffset": 122097,
                     "endLine": 1673,
                     "endColumn": 12,
-                    "endOffset": 122220
+                    "endOffset": 122218
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6234,9 +6234,9 @@
                 "to": {
                     "startLine": 1674,
                     "startColumn": 4,
-                    "startOffset": 122225,
+                    "startOffset": 122223,
                     "endColumn": 87,
-                    "endOffset": 122308
+                    "endOffset": 122306
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6246,9 +6246,9 @@
                 "to": {
                     "startLine": 1675,
                     "startColumn": 4,
-                    "startOffset": 122313,
+                    "startOffset": 122311,
                     "endColumn": 107,
-                    "endOffset": 122416
+                    "endOffset": 122414
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6258,9 +6258,9 @@
                 "to": {
                     "startLine": 1676,
                     "startColumn": 4,
-                    "startOffset": 122421,
+                    "startOffset": 122419,
                     "endColumn": 99,
-                    "endOffset": 122516
+                    "endOffset": 122514
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6270,9 +6270,9 @@
                 "to": {
                     "startLine": 1677,
                     "startColumn": 4,
-                    "startOffset": 122521,
+                    "startOffset": 122519,
                     "endColumn": 89,
-                    "endOffset": 122606
+                    "endOffset": 122604
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6282,9 +6282,9 @@
                 "to": {
                     "startLine": 1678,
                     "startColumn": 4,
-                    "startOffset": 122611,
+                    "startOffset": 122609,
                     "endColumn": 109,
-                    "endOffset": 122716
+                    "endOffset": 122714
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6294,9 +6294,9 @@
                 "to": {
                     "startLine": 1679,
                     "startColumn": 4,
-                    "startOffset": 122721,
+                    "startOffset": 122719,
                     "endColumn": 83,
-                    "endOffset": 122800
+                    "endOffset": 122798
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6306,9 +6306,9 @@
                 "to": {
                     "startLine": 1680,
                     "startColumn": 4,
-                    "startOffset": 122805,
+                    "startOffset": 122803,
                     "endColumn": 101,
-                    "endOffset": 122902
+                    "endOffset": 122900
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6318,9 +6318,9 @@
                 "to": {
                     "startLine": 1681,
                     "startColumn": 4,
-                    "startOffset": 122907,
+                    "startOffset": 122905,
                     "endColumn": 83,
-                    "endOffset": 122986
+                    "endOffset": 122984
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6330,9 +6330,9 @@
                 "to": {
                     "startLine": 1682,
                     "startColumn": 4,
-                    "startOffset": 122991,
+                    "startOffset": 122989,
                     "endColumn": 53,
-                    "endOffset": 123040
+                    "endOffset": 123038
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6342,9 +6342,9 @@
                 "to": {
                     "startLine": 1683,
                     "startColumn": 4,
-                    "startOffset": 123045,
+                    "startOffset": 123043,
                     "endColumn": 63,
-                    "endOffset": 123104
+                    "endOffset": 123102
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6354,9 +6354,9 @@
                 "to": {
                     "startLine": 1684,
                     "startColumn": 4,
-                    "startOffset": 123109,
+                    "startOffset": 123107,
                     "endColumn": 105,
-                    "endOffset": 123210
+                    "endOffset": 123208
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6366,9 +6366,9 @@
                 "to": {
                     "startLine": 1685,
                     "startColumn": 4,
-                    "startOffset": 123215,
+                    "startOffset": 123213,
                     "endColumn": 109,
-                    "endOffset": 123320
+                    "endOffset": 123318
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6378,9 +6378,9 @@
                 "to": {
                     "startLine": 1686,
                     "startColumn": 4,
-                    "startOffset": 123325,
+                    "startOffset": 123323,
                     "endColumn": 83,
-                    "endOffset": 123404
+                    "endOffset": 123402
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
@@ -6390,9 +6390,9 @@
                 "to": {
                     "startLine": 1687,
                     "startColumn": 4,
-                    "startOffset": 123409,
+                    "startOffset": 123407,
                     "endColumn": 119,
-                    "endOffset": 123524
+                    "endOffset": 123522
                 },
                 "from": {
                     "file": "C:\\Users\\Nick\\Desktop\\Projects\\spark-sdk-android-master\\example_app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml"
